@@ -1,0 +1,91 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  background-color: lightgoldenrodyellow;
+}
+
+
+
+.heading-title {
+
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  margin-bottom: 50px;
+
+  }
+
+.burger-pic{
+  background-color: white;
+  justify-content: center;
+  width: 150px;
+  
+}
+
+.burgers-list{
+  font-size: 80%;
+  margin: -5px;
+  margin-bottom: 0px;
+  padding-bottom:0px;
+}
+
+.burgerslist-heading {
+  font-size: 90%;
+  font-weight: bold;
+
+  
+}
+
+.btninline{
+  float: right;
+}
+
+.burgerbtn{
+  font-size: 75%;
+
+}
+
+.btninline{
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right:0px;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  list-style: none;
+
+}
+
+
+.burgeritem{
+  margin: 5px;
+  background-color: transparent;
+  ba
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+form {
+  margin-bottom: 100px;
+
+}
+
+.grid-item1{
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items:center;
+}
